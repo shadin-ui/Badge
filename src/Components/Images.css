@@ -1,0 +1,14 @@
+.albums {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+}
+
+.imagess {
+    height: 100px;
+    width: 100px;
+}
+
+.title {
+    text-align: center;
+}
